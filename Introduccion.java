@@ -16,5 +16,8 @@ public class Introduccion{
         else {
             System.out.println("Aún no puedes tomar bebidas alcoholicas en USA!");
         }
+
+
+        edad = (int)numeroDecimalGrande; //Casting
     }
 }
